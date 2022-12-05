@@ -5,7 +5,7 @@
 * Email: gigagabunia.2003@gmail.com
 * GitHub: https://github.com/julyrent
 ## Summary
-I am 19 year old computer science bachelor.
+I am 19 year old Computer Science bachelor.
 I have a little experience as junior front-end developer.
 Seeking challenging opportunities which will allow me to develop as excellent developer.
 Good team-worker and quick learner.
