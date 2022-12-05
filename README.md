@@ -1,2 +1,2 @@
 # rsschool-cv
-https://julyrent.io/rsschool-cv/cv
+https://julyrent.github.io/rsschool-cv/cv
