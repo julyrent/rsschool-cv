@@ -1,1 +1,133 @@
+code {
+    background-color: rgb(41, 39, 39);
+    color:white;
+    border: 1px solid #999;
+    display: block;
+    padding: 20px;
+  }
+.name{
+    margin: auto;
+    text-align: center;
+    color: darkslategrey;
+    border-bottom:darkslategrey 5px solid;
+    width: 70%;
+  }
+  body{ 
+    font-size:16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:beige;
+    }
+  pre code{
+    margin:0px 10px 0px 15%;
+    height: auto;
+    font-size:14px;
+    width: 67%;
+  }
+  .info{
+    text-align: left;
+    margin-left: 15%;
+    border-bottom:darkslategrey 5px solid;
+    width: 70%;
+    color: darkslategrey;
+  }
+  .info-list{
+    margin-top:20px;
+    text-align: left;
+    display: inline-block;
+    margin-left: 14%;
+    font-size: 17px;
+    color: darkslategrey;
+    padding-left:15px;
+  }
+  .summary{
+    text-align: left;
+    margin-left: 15%;
+    border-bottom:darkslategrey 5px solid;
+    width: 70%;
+    color: darkslategrey;
+  }
+  .aboutme{
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: darkslategrey;
+    font-size: 17px;
+  }
+  .skills{
+    text-align: left;
+    margin-left: 15%;
+    border-bottom:darkslategrey 5px solid;
+    width: 70%;
+    color: darkslategrey;
+  }
+  .skilllist{
+    text-align: left;
+    display: inline-block;
+    margin-left: 15%;
+    font-size: 17px;
+    color: darkslategrey;
+    margin-top:10px;
+  }
+  .codeexample{
+    text-align: left;
+    margin-left: 15%;
+    border-bottom:darkslategrey 5px solid;
+    width: 70%;
+    color: darkslategrey;
+  }
+  .education{
+    text-align: left;
+    margin-left: 15%;
+    border-bottom:darkslategrey 5px solid;
+    width: 70%;
+    color: darkslategrey;
+    border-top:darkslategrey 5px solid;
+  }
+  .uni{
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: darkslategrey;
+    font-size: 17px;
+  }
+  .lang{
+    text-align: left;
+    margin-left: 15%;
+    border-bottom:darkslategrey 5px solid;
+    width: 70%;
+    color: darkslategrey;
+  }
+  .langli{
+    text-align: left;
+    display: inline-block;
+    margin-left: 15%;
+    font-size: 17px;
+    color: darkslategrey;
+    margin-top:10px;
+  }
+  footer{
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 100px;
+    margin-top:30px;
+  }
+  .rsschool{
+    width: 80px;
+    height: 100px;
+  }
+  .github{
+    width: 80px;
+    height: 100px;
+  }
+.author{
+  float:right;
+  color: darkslategrey;
+  font-size: 19px;
+}
+.avatar{
+  width:200px;
+  height:200px;
+  border-radius: 8px;
+}
+
 
